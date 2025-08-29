@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![snake gif](https://github.com/TheSanitGautam/TheSanitGautam/blob/output/github-snake-dark.svg)
 <!--
 **TheSanitGautam/TheSanitGautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
